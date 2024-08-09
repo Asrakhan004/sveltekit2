@@ -1,1 +1,1 @@
-<p> Footeer</p>
+<p> Footer</p>
