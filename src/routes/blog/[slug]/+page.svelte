@@ -4,7 +4,7 @@
 </script>
 
 <div>
-  {#each data.names as { name  } (id)}
+  {#each data.names as { name, id  } (id)}
     <div class = "font-semibold">{name}</div>
   {/each}
 </div>
